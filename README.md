@@ -39,8 +39,8 @@
 
 **Objective:** Adapt the tracking loop (DLL) to generate correlation plots and analyze tracking performance. Discuss the impact of urban interference on correlation peaks. (Multiple correlators must be implemented.) The result file is in `Task2`.
 ![image](https://github.com/zhixingchen-polyu/AAE6102-Assignment-1/blob/main/Picture/fig1.png)
-https://github.com/zhixingchen-polyu/AAE6102-Assignment-1/tree/main/Picture/fig1.png
-**(Include Figures 1 and 2 from the PDF here.  You'll need to save these images separately and reference them in your markdown using the standard Markdown image syntax.)**
+
+**Fig. 1. The correlation plots of Open-Sky dataset**
 
 **Discussion on Urban Interference:**
 
