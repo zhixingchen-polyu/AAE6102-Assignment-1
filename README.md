@@ -44,6 +44,7 @@
 ![image](https://github.com/zhixingchen-polyu/AAE6102-Assignment-1/blob/main/Picture/fig2.png)
 
 *Fig. 2. The correlation plots of Urban dataset*
+
 **Discussion on Urban Interference:**
 
 ### Multipath Effects:
@@ -76,6 +77,7 @@ Under significant urban interference, the DLL may have difficulty locking onto t
 ![image](https://github.com/zhixingchen-polyu/AAE6102-Assignment-1/blob/main/Picture/fig4.png)
 
 *Fig. 4. The position and velocity of Urban dataset*
+
 **Effects of Multipath on Weighted Least Squares (WLS) Solutions**
 
 1. **Increased Measurement Errors:** Multipath causes time delays in received signals, leading to pseudorange errors and inaccurate WLS estimates.
