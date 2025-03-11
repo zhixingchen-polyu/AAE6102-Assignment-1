@@ -40,8 +40,10 @@
 **Objective:** Adapt the tracking loop (DLL) to generate correlation plots and analyze tracking performance. Discuss the impact of urban interference on correlation peaks. (Multiple correlators must be implemented.) The result file is in `Task2`.
 ![image](https://github.com/zhixingchen-polyu/AAE6102-Assignment-1/blob/main/Picture/fig1.png)
 
-**Fig. 1. The correlation plots of Open-Sky dataset**
+*Fig. 1. The correlation plots of Open-Sky dataset*
+![image](https://github.com/zhixingchen-polyu/AAE6102-Assignment-1/blob/main/Picture/fig2.png)
 
+*Fig. 2. The correlation plots of Urban dataset*
 **Discussion on Urban Interference:**
 
 ### Multipath Effects:
@@ -66,10 +68,14 @@ Under significant urban interference, the DLL may have difficulty locking onto t
 
 ## Task 4 – Position and Velocity Estimation
 
-**Objective:** Using pseudorange measurements from tracking, implement the Weighted Least Squares (WLS) algorithm to compute the user's position and velocity. Plot the user position and velocity. Compare the results with the ground truth. Discuss the impact of multipath effects on the WLS solution.
+**Objective:** Using pseudorange measurements from tracking, implement the Weighted Least Squares (WLS) algorithm to compute the user's position and velocity. Plot the user position and velocity. Compare the results with the ground truth. Discuss the impact of multipath effects on the WLS solution.The result file is in `Task4`.
 
-**(Include Figures 3 and 4 from the PDF here. You'll need to save these images separately and reference them in your Markdown using the standard Markdown image syntax.)**
+![image](https://github.com/zhixingchen-polyu/AAE6102-Assignment-1/blob/main/Picture/fig3.png)
 
+*Fig. 3. The position and velocity of Open-Sky dataset*
+![image](https://github.com/zhixingchen-polyu/AAE6102-Assignment-1/blob/main/Picture/fig4.png)
+
+*Fig. 4. The position and velocity of Urban dataset*
 **Effects of Multipath on Weighted Least Squares (WLS) Solutions**
 
 1. **Increased Measurement Errors:** Multipath causes time delays in received signals, leading to pseudorange errors and inaccurate WLS estimates.
